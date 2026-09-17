@@ -63,10 +63,10 @@ A two-level hierarchical AI security pipeline supervised by Dr. Rami Zewail:
 ## 🛠️ Core Skills
 
 ### ⚙️ Programming & ML
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?style=for-the-badge&logo=scikitlearn)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-Intermediate-blue?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Visualization-Intermediate-green?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Visualization-Advanced-green?style=for-the-badge)
 
 ### 🧩 Soft Skills
 `Management` `Creativity` `Critical Thinking` `Leadership` `Communication` `Teamwork`
