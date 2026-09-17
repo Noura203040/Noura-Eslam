@@ -1,12 +1,9 @@
 # Noura Eslam - AI & Machine Learning Engineering Student 🤖
 
 [![Email](https://img.shields.io/badge/Email-noura.salm%40ejust.edu.eg-blue?style=flat&logo=gmail)](mailto:noura.salm@ejust.edu.eg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noura%20Eslam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noura%20Eslam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/noura-eslam/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Noura203040)
 
-> Replace the LinkedIn and GitHub badge links above with your real profile URLs before publishing.
-
----
 
 ## 👩‍💻 About Me
 
